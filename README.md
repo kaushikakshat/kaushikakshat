@@ -61,8 +61,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kaushikakshat/kaushikakshat/output/snake.svg" alt="Snake animation" />
-![snake svg]
-(https://raw.githubusercontent.com/kaushikakshat/kaushikakshat/output/snake.svg)
 
 
 ###
